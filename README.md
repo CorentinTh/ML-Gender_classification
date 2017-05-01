@@ -1,4 +1,4 @@
-# ML-SickitNearestNeighbors
+# ML-Gender_classification
 
 ## Overview
 This is the code for a gender classification. It uses the library [scikit-learn](http://scikit-learn.org/) to create a [K-Nearest-Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) classifier.
