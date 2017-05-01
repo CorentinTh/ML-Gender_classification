@@ -21,7 +21,7 @@ pip install scikit-learn
 ## Make it works
 You can run this script in terminal with this command line :
 ```
-python Male_female.py
+python main.py
 ```
 
 ## Credit 
