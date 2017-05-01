@@ -2,6 +2,7 @@
 
 ## Overview
 This is the code for a gender classification. It uses the library [scikit-learn](http://scikit-learn.org/) to create a [K-Nearest-Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) classifier.
+It uses a small dataset of body metrics (height, weight and shoes size) with "male" or "female" label to predict the gender of a given body metrics.
 
 ## Dependencies
 You need this 3 dependencies to run this program :
